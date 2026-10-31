@@ -1,3 +1,6 @@
 def calculate_discount(price, discount):
-    """Calculate the final price after applying a discount."""
+    """
+    Calculate final price with a maximum discount of 20%.
+    """
+    discount = min(discount, 20)
     return price - (price * discount / 100)
