@@ -2,4 +2,4 @@
 
 ## Configuration
 
-MAX_RETRIES is 3.
+MAX_RETRIES is 5.
