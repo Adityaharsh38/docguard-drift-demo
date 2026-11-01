@@ -3,6 +3,7 @@
 ## Configuration
 
 MAX_RETRIES is 5.
+MAX_RETRIES is 10.
 
 ## Calculator
 
